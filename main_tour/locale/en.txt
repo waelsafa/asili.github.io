@@ -1,0 +1,267 @@
+#: locale=en
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_CAE25B10_FAFE_C355_41E0_CDAC651CBF1F.url = https://celadon-gingersnap-005870.netlify.app/2brapt
+PopupWebFrameBehaviour_3D7E6CB0_26F0_5CD5_4178_D3D35B61DD34.url = https://celadon-gingersnap-005870.netlify.app/2brapt
+PopupWebFrameBehaviour_CAE59B11_FAFE_C357_41E8_E989BDF51053.url = https://celadon-gingersnap-005870.netlify.app/3brpent
+PopupWebFrameBehaviour_653F0F62_E7EC_5B19_41D1_75563C57C446.url = https://celadon-gingersnap-005870.netlify.app/3brpent
+PopupWebFrameBehaviour_43F5F2BE_6F2E_528E_41D3_14CA1CC05219.url = https://celadon-gingersnap-005870.netlify.app/studioapt
+PopupWebFrameBehaviour_CAE20B0F_FAFE_C34B_41D1_3DA851786053.url = https://celadon-gingersnap-005870.netlify.app/studioapt
+PopupWebFrameBehaviour_EA83A994_F67C_732A_41CB_654A3838D554.url = https://storage.net-fs.com/hosting/4574030/117/
+PopupWebFrameBehaviour_D458D0D9_F674_32DA_41DD_FBEDCE1769EC.url = https://storage.net-fs.com/hosting/4574030/119/
+PopupWebFrameBehaviour_D7A9A9A5_F674_336A_41DB_A81D3693432E.url = https://storage.net-fs.com/hosting/4574030/121/
+LinkBehaviour_42DF7DBF_6D49_AC0C_41B3_169BBB41EC48.source = https://www.360strategy.ae/
+LinkBehaviour_CA1CDB07_FAFE_C33B_41B2_60D83F2D4A74.source = https://www.360strategy.ae/
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_55E51A37_71D7_67DE_41CE_0C38CB2EBB8E.text = Reception
+HotspotPanoramaOverlayTextImage_5596494E_71D3_244F_41D0_CFA3D96E783A.text = Reception
+HotspotPanoramaOverlayTextImage_54183D09_71D3_FDB2_41C2_A4745E6209C3.text = Reception
+
+## Media
+
+### Audio
+audiores_315DC5CA_2758_228F_41BE_7F60C87A3108.mp3Url = media/audio_33FEBC8A_2758_628E_416B_2B6AEEBA7D46_en.mp3
+
+### Floorplan
+
+### Image
+imlevel_75279511_686D_962D_41B0_35128046BCF3.url = media/map_5643FB2D_0866_8851_4187_16A5B3E9E05C_en_0.jpg
+imlevel_7527A511_686D_962D_41CB_C79DC0CDA72D.url = media/map_5643FB2D_0866_8851_4187_16A5B3E9E05C_en_1.jpg
+imlevel_7527C511_686D_962D_41D1_814E42E4B763.url = media/map_5643FB2D_0866_8851_4187_16A5B3E9E05C_en_2.jpg
+imlevel_7527E511_686D_962D_41D0_CC395D6A1EB6.url = media/map_5643FB2D_0866_8851_4187_16A5B3E9E05C_en_3.jpg
+imlevel_40706AF2_71D5_2456_414F_CB783F4BF170.url = media/panorama_23F677B2_040C_37EC_4185_49A73B145753_HS_8atopvmq_en.png
+imlevel_40770AD9_71D5_2452_41D4_721C06C3A1B6.url = media/panorama_2C056579_0434_2B5C_4186_3128BD662FC6_HS_k4mag6d7_en.png
+imlevel_40716B10_71D5_25D2_41B5_A7573495FE3C.url = media/panorama_30A449F0_040C_7B6C_4185_7E0268520FAF_HS_1pgccodi_en.png
+
+### Title
+panorama_623074AE_73FD_D52C_41BA_0D77D33A28DA.label = Reception 0000
+panorama_64E6879F_7417_73EC_41D4_0A228202CFC9.label = Reception 0001
+panorama_6155D5EA_7413_3754_41DA_2AD90C190762.label = Reception 0002
+panorama_7A81E8C8_6F32_3EF2_41CA_15DE7DB97463.label = Reception 0003
+panorama_717250A4_6F7E_CEB2_41C4_84B6B02A3C1F.label = Reception 0004
+panorama_4FA0418B_6F6E_4F76_41DA_D00FE27FE882.label = Reception 0005
+panorama_600EE327_7477_2CDC_41AC_0E08064174E1.label = Reception 0006
+panorama_60CF7552_741D_7774_41CD_F857FE51EF21.label = Reception 0007
+panorama_6778FB98_7477_33F4_41DC_BCE7E0A6AC34.label = Reception 0008
+panorama_67D697EE_7412_D32C_41B4_5CFD15208BFD.label = Reception 0009
+panorama_66A30D3E_76BD_9ADF_41D6_ACEE2DFA3C57.label = Reception 0010
+panorama_5E436411_76FF_8AA4_41C7_B5C2E6757EF9.label = Reception 0011
+panorama_659526A5_76C4_97ED_41D9_293818D25A45.label = Reception 0012
+panorama_63C3623C_76C5_8EDC_41DC_7A8D3581E5EF.label = Reception 0013
+panorama_6DDFDC80_76CC_9BA3_41B3_27F23968B0D0.label = Reception 0014
+panorama_6898CA36_76C5_FEEF_41C7_F337AB0A69EF.label = Reception 0015
+panorama_686A1B30_76DC_9EE3_41D4_6A3D9E28CD9D.label = Reception 0016
+panorama_5447AC36_76DB_9AEF_41C9_C7A2E41F9C01.label = Reception 0017
+panorama_558EF976_76C7_9D6F_41BC_5914308D3428.label = Reception 0018
+panorama_57ABF3AA_76CC_8DE7_41BF_1D9545053F5E.label = Reception 0019
+panorama_559E34DD_76CC_8B5D_41C6_8BE4346DE010.label = Reception 0020
+panorama_509FFB08_76CB_7EA3_41D1_18254CE1F085.label = Reception 0021
+panorama_5080D365_76C7_8D6D_41CC_127B1323085B.label = Reception 0022
+panorama_52D46FAA_76FB_F5E7_41CA_5F0DE2641430.label = Reception 0023
+panorama_2F56D50E_701D_B9B4_41CE_67A5A52DE813.label = Reception 0024
+panorama_2F44F695_7023_B8D7_41D7_B0C3AFA9DFE8.label = Reception 0025
+panorama_6AD15FF8_71ED_FC52_41DA_A8666859D966.label = Reception 0026
+panorama_68F29EA2_71F7_7CF7_41A1_C7B4FEA0698D.label = Reception 0027
+panorama_6E760852_71FF_2456_4198_201DB39C9381.label = Reception 0028
+video_332A16A1_3C25_9EB9_41CC_556F1A631446.label = Zanzibar Asili Intro compressed
+map_5643FB2D_0866_8851_4187_16A5B3E9E05C.label = Zanzibar Map
+panorama_1F317403_2710_63BB_4191_A1C6B2E95DDE.label = Zanzibar V2 Ext 0001
+panorama_EC94C0BE_FD87_0D47_41E8_F145FF21EA32.label = Zanzibar V2 Ext 0002
+panorama_EC9B26DC_FD87_32C4_41E9_7454EE4E18F6.label = Zanzibar V2 Ext 0003
+panorama_EC9BFCC8_FD87_36CC_41C2_AEC48C9EC0FA.label = Zanzibar V2 Ext 0004
+panorama_EC9BA2E6_FD87_12C5_41D3_FCBF5E17DD59.label = Zanzibar V2 Ext 0005
+panorama_1784FFFB_02AC_2420_4172_EB363A94C254.label = Zanzibar V2 Ext 0006
+panorama_EC9BCF35_FD87_1344_41E0_90FBE9F65431.label = Zanzibar V2 Ext 0007
+panorama_EC9B855F_FD87_F7C4_41EB_13DD9CEBB515.label = Zanzibar V2 Ext 0008
+panorama_EC9B9BA4_FD87_F344_41C3_6F22562C4DB8.label = Zanzibar V2 Ext 0009
+panorama_EC94C1F0_FD87_0EDB_41C3_4F3B2566A562.label = Zanzibar V2 Ext 0010
+panorama_EC949851_FD87_1DDD_41C6_6D9AF0670A25.label = Zanzibar V2 Ext 0011
+panorama_E0D2FF04_FD81_333B_41E8_20D5CEDE4D7A.label = Zanzibar V2 Ext 0012
+panorama_E17A26B7_FD81_1545_41DD_8B203350F6DE.label = Zanzibar V2 Ext 0013
+panorama_E17BFDC1_FD81_173C_41D4_8A8B17E4D6B6.label = Zanzibar V2 Ext 0014
+panorama_E17BD4D7_FD81_76C4_41E7_D6294CA1287B.label = Zanzibar V2 Ext 0015
+panorama_173A157F_02A4_2420_414C_F30474AF66E0.label = Zanzibar V2 Ext 0016
+panorama_E17BA2E7_FD81_12C5_41D2_6E744EDE1D8D.label = Zanzibar V2 Ext 0017
+panorama_C842783A_FD87_3D4C_41DD_9D9086D298D9.label = Zanzibar V2 Ext 0018
+panorama_199D9C31_2770_63D6_41C1_6E203C9395D8.label = Zanzibar V2 Ext 0019
+panorama_12E131E9_02AC_5C20_4184_870819500518.label = Zanzibar V2 Ext 0020
+panorama_11CA4FF7_02BC_6420_4172_E10180E9882D.label = Zanzibar V2 Ext 0021
+panorama_10E0C02F_02BC_3C20_4173_6743D0B73324.label = Zanzibar V2 Ext 0022
+panorama_17BE3176_02A4_5C20_4169_0AFBB63C8926.label = Zanzibar V2 Ext 0023
+panorama_14DF99C9_02A4_6C60_4180_71252E07D7FC.label = Zanzibar V2 Ext 0024
+panorama_14EC2770_02A4_E420_414E_1D80DFB607D0.label = Zanzibar V2 Ext 0025
+panorama_15E07333_029D_FC20_4185_A0945DEC047C.label = Zanzibar V2 Ext 0026
+panorama_1433D0BA_029C_DC20_4157_2E9B0565560D.label = Zanzibar V2 Ext 0027
+panorama_1A43B2E6_02E4_3C20_4108_577C0936B640.label = Zanzibar V2 Ext 0028
+panorama_1A1FCD95_02E4_24E0_416B_6E6A73BDA146.label = Zanzibar V2 Ext 0029
+panorama_1ED5A1F4_02FC_3C20_4185_E575C982B6C3.label = Zanzibar V2 Ext 0030
+panorama_1939CCAF_02E4_6420_4185_2B531DEDF2CD.label = Zanzibar V2 Ext 0031
+panorama_1E0C9E8F_02E4_24E1_4147_0A079B26408A.label = Zanzibar V2 Ext 0032
+panorama_1CF26CB0_02EC_2420_4173_48B23E0C6C9E.label = Zanzibar V2 Ext 0033
+panorama_272A8078_02A4_3C20_4158_8CACF97ACE2C.label = Zanzibar V2 Ext 0034
+panorama_21B0B602_029C_27E0_417D_D0EDA3E0B61A.label = Zanzibar V2 Ext 0035
+panorama_28E3EF11_02A4_25E0_4178_152D86BAB3C9.label = Zanzibar V2 Ext 0036
+panorama_2A044159_02AC_3C60_415C_CC6F41678B4C.label = Zanzibar V2 Ext 0037
+panorama_2EF8878C_02BC_24E0_417C_E0FD0F95F08E.label = Zanzibar V2 Ext 0038
+panorama_2FBF9D16_02A4_65E0_4183_76C93C6FE64E.label = Zanzibar V2 Ext 0039
+panorama_2C4FDFCA_0364_2460_4174_1DB46BFD980B.label = Zanzibar V2 Ext 0040
+panorama_2EF17D1B_0364_E5E0_4175_5E83262AC73B.label = Zanzibar V2 Ext 0041
+panorama_36287E3B_039C_6420_4183_4AA22868ECF9.label = Zanzibar V2 Ext 0042
+panorama_36040B70_039C_2C20_417B_D7EEBD1D1048.label = Zanzibar V2 Ext 0043
+panorama_3BA51F4F_039D_E460_4163_8E8E9FF50DCE.label = Zanzibar V2 Ext 0044
+panorama_36E89285_039C_3CE0_4176_3AC13F9BE403.label = Zanzibar V2 Ext 0045
+panorama_35B72A6E_03A4_2C20_4187_88DE418941B8.label = Zanzibar V2 Ext 0046
+panorama_39B20CFB_03A4_2420_4185_7D8E27669BBC.label = Zanzibar V2 Ext 0047
+panorama_3E3D4E54_03AF_E460_417C_8DC0B24C18B8.label = Zanzibar V2 Ext 0048
+panorama_3FF4F406_03A4_FBE0_415A_44814CEFA786.label = Zanzibar V2 Ext 0049
+panorama_18AFB35B_0414_2F53_4180_7F67077A6309.label = Zanzibar V2 Ext 0051
+panorama_18FC540F_0414_28B4_413B_4EC02A6FD84A.label = Zanzibar V2 Ext 0052
+panorama_1991C56F_041D_EB74_4167_5689CC2A8AAC.label = Zanzibar V2 Ext 0053
+panorama_19955FAD_0414_D7F4_4188_3B31B01379F2.label = Zanzibar V2 Ext 0054
+panorama_199C26B2_0417_E9ED_4187_100DFAD2B996.label = Zanzibar V2 Ext 0055
+panorama_1BF19D8D_040C_DBB4_412D_53D9B89F2E5C.label = Zanzibar V2 Ext 0056
+panorama_245573DE_040F_EF54_418A_5788164BA72E.label = Zanzibar V2 Ext 0057
+panorama_26ECB366_040C_2F74_4178_422723B3DF62.label = Zanzibar V2 Ext 0058
+panorama_256CA219_040C_28DF_4177_29B2DD02A5BE.label = Zanzibar V2 Ext 0059
+panorama_2C056579_0434_2B5C_4186_3128BD662FC6.label = Zanzibar V2 Ext 0060
+panorama_23F677B2_040C_37EC_4185_49A73B145753.label = Zanzibar V2 Ext 0061
+panorama_237E7EEF_0414_5974_416F_507FC61BE279.label = Zanzibar V2 Ext 0062
+panorama_2FEED26B_040D_E97C_4179_82C80E18DE6A.label = Zanzibar V2 Ext 0063
+panorama_2AD7C034_04F4_28D5_4186_D7462BB28EC4.label = Zanzibar V2 Ext 0064
+panorama_2BCECCEB_04F4_797C_4166_C6C975D34118.label = Zanzibar V2 Ext 0065
+panorama_2B891E4D_04FC_38B7_4157_00FAE932AB92.label = Zanzibar V2 Ext 0066
+panorama_351F612C_040B_E8F4_4183_6ADF3A7B7C56.label = Zanzibar V2 Ext 0067
+panorama_36100B3F_040C_58D4_4189_0CB6479F3014.label = Zanzibar V2 Ext 0068
+panorama_30A449F0_040C_7B6C_4185_7E0268520FAF.label = Zanzibar V2 Ext 0069
+panorama_33DFA414_0414_28D4_4152_A54C353D69CA.label = Zanzibar V2 Ext 0070
+panorama_333B97E1_041D_F76C_4175_F6527C1CE78A.label = Zanzibar V2 Ext 0071
+panorama_3F86C0E9_041C_697C_4176_4ACD0B45BB1C.label = Zanzibar V2 Ext 0072
+panorama_39905A70_040C_D96D_4180_8C21EFD5EAB8.label = Zanzibar V2 Ext 0073
+panorama_3FFF004A_0414_28BC_4182_796246BBACC5.label = Zanzibar V2 Ext 0074
+panorama_3837B758_040C_575C_4178_BD8A814E0904.label = Zanzibar V2 Ext 0075
+panorama_4566CDF1_0434_5B6C_417C_F5A650C142B7.label = Zanzibar V2 Ext 0076
+panorama_3A9D4B7F_0435_FF54_418D_B13CCB88D870.label = Zanzibar V2 Ext 0077
+panorama_3F388FCC_043C_57B5_416A_D9DBE9A61E79.label = Zanzibar V2 Ext 0078
+panorama_3AB0CD02_0434_38AC_418C_9297039804B7.label = Zanzibar V2 Ext 0079
+panorama_46E2E108_040C_28BC_4192_3B3E69376DD6.label = Zanzibar V2 Ext 0080
+panorama_3B53DDFC_040B_DB54_4183_CF0522087340.label = Zanzibar V2 Ext 0081
+panorama_411102B8_0414_29DD_4155_4CD6708F2878.label = Zanzibar V2 Ext 0082
+panorama_55F90173_040C_6B6C_4180_9CA953C60634.label = Zanzibar V2 Ext 0083
+panorama_4B5F318D_0434_2BB4_4161_6C8FC03B9BD8.label = Zanzibar V2 Ext 0085
+panorama_4C4EB605_0434_28B7_4185_98A22CBFD91E.label = Zanzibar V2 Ext 0086
+panorama_4F451D85_043C_3BB4_4188_7A6DA5435D70.label = Zanzibar V2 Ext 0087
+panorama_563E40B0_0434_29EC_4187_3AFF096A848F.label = Zanzibar V2 Ext 0088
+panorama_491A3E67_0434_3974_4176_616A2A6FFED9.label = Zanzibar V2 Ext 0089
+panorama_4A170DBF_0434_3BD4_4184_769CC3F996F7.label = Zanzibar V2 Ext 0090
+panorama_57120F31_041C_38EC_4183_99709721D93B.label = Zanzibar V2 Ext 0091
+panorama_1040BA95_07A2_8871_4171_C708C119EDE0.label = Zanzibar V2 Ext 0092
+panorama_5157CD95_0414_5BD7_418C_7C6C088E4D2C.label = Zanzibar V2 Ext 0093
+panorama_018A9F5C_12BD_E5D4_41B0_4723FC3FD140.label = Zanzibar V2 Ext 0094
+panorama_1C9AEC22_125E_AB6C_41AC_D8B1B9ED9F66.label = Zanzibar V2 Ext 0095
+panorama_1C8C0E46_125E_A737_41A6_99F92270FBC0.label = Zanzibar V2 Ext 0096
+panorama_50DECD9F_05F4_5BD4_4191_B44F3BC0A458.label = Zanzibar V2 Ext 0097
+panorama_5970B0BB_05F4_69DC_4191_2D450E4C5CE4.label = Zanzibar V2 Ext 0098
+panorama_5D20FDB4_05FC_3BD4_4170_22864E920E50.label = Zanzibar V2 Ext 0099
+panorama_085951A7_07A2_7851_4198_A9ADA43915B3.label = Zanzibar V2 Ext 0100
+panorama_159E64F1_07A2_99B1_418F_C9414C76BD9C.label = Zanzibar V2 Ext 0101
+panorama_16BDFB96_07A2_8873_4188_258BFB7E3E56.label = Zanzibar V2 Ext 0102
+panorama_149950E4_07A2_99D7_4181_1D5B1B8A4467.label = Zanzibar V2 Ext 0103
+panorama_14B21D89_07AE_8851_4190_AD823C5346E8.label = Zanzibar V2 Ext 0104
+panorama_1005B612_07AE_9873_417B_A314CE060346.label = Zanzibar V2 Ext 0105
+panorama_1187F7C5_07A1_87D1_4194_F0825561958C.label = Zanzibar V2 Ext 0107
+panorama_11DFCBE4_07A7_8FD7_4194_3F55307A8A31.label = Zanzibar V2 Ext 0108
+panorama_1F8962AD_07A1_9851_4196_79DE670EBCA6.label = Zanzibar V2 Ext 0109
+panorama_26278EB5_07A3_89B1_4193_655723E6A3C4.label = Zanzibar V2 Ext 0110
+panorama_2CF9C91D_0862_8871_417C_6A3AB1AF7432.label = Zanzibar V2 Ext 0111
+panorama_2C083FA0_0867_884F_418A_A5A1DFDE95A8.label = Zanzibar V2 Ext 0112
+panorama_2DBD93CC_0862_FFD7_4188_ADEE3A7FB111.label = Zanzibar V2 Ext 0113
+panorama_2EE1FE68_0861_88DF_4173_CE62DD921859.label = Zanzibar V2 Ext 0114
+panorama_20BF10E4_0863_B9D7_417F_A69B70276044.label = Zanzibar V2 Ext 0115
+panorama_21201242_0861_F8D3_419B_66ADB8253A94.label = Zanzibar V2 Ext 0116
+panorama_244D2DB1_0866_8BB1_4169_CD66D0C1BF5F.label = Zanzibar V2 Ext 0117
+panorama_3BF32E2F_0862_8851_4179_6907C80A3B3F.label = Zanzibar V2 Ext 0118
+panorama_3131D668_085E_98DF_4145_081599CE0818.label = Zanzibar V2 Ext 0119
+panorama_31DCC16D_08A6_98D1_4195_69DF185E2CA6.label = Zanzibar V2 Ext 0120
+panorama_32640965_08A1_88D1_4193_295768F51FB0.label = Zanzibar V2 Ext 0121
+panorama_3240A9B2_08A1_8BB3_4192_924B613025A7.label = Zanzibar V2 Ext 0122
+panorama_4CFA85FC_08A6_BBB7_4195_10B48653F0DC.label = Zanzibar V2 Ext 0123
+panorama_361E4F43_08A1_88D1_41A0_21CAE23F4750.label = Zanzibar V2 Ext 0124
+panorama_4C05E46A_08A3_98D3_4189_3C19A420A018.label = Zanzibar V2 Ext 0125
+panorama_4D41EF91_08BE_8871_416E_68A561123527.label = Zanzibar V2 Ext 0126
+panorama_4E5BC419_08BE_9871_4198_D98E2211AB8E.label = Zanzibar V2 Ext 0127
+panorama_4D1A89D1_08A2_8BF1_4195_57001C454463.label = Zanzibar V2 Ext 0128
+panorama_4F7AA349_08A7_98D1_418D_C89F2224B797.label = Zanzibar V2 Ext 0129
+panorama_45ACD51A_08AF_9873_419C_6745DC897368.label = Zanzibar V2 Ext 0130
+panorama_4009A8C7_08A2_89D1_417F_BCE87EC408C6.label = Zanzibar V2 Ext 0131
+panorama_44E7B97A_08A2_88B3_4195_EEB7CDE69621.label = Zanzibar V2 Ext 0132
+panorama_121A6417_0414_E8D4_413A_8285F9D68A82.label = Zanzibar V2 Ext 0133
+
+### Video
+videolevel_74E1D3B0_686E_926B_41CD_ED77CB297386.url = media/video_332A16A1_3C25_9EB9_41CC_556F1A631446_en.mp4
+videolevel_74E1D3B0_686E_926B_41CD_ED77CB297386.posterURL = media/video_332A16A1_3C25_9EB9_41CC_556F1A631446_poster_en.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = 2 Bedroom Apartment
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = 2 Bedroom Apartment
+Button_9718EB3C_E7A4_3B68_41AC_8751214EC6AA_mobile.label = 3 Bedroom Penthouse
+Button_9718EB3C_E7A4_3B68_41AC_8751214EC6AA.label = 3 Bedroom Penthouse
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = LOREM IPSUM
+Button_062AF830_1140_E215_418D_D2FC11B12C47_mobile.label = LOREM IPSUM
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Location
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = Masterplan
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = Masterplan
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = Panorama List
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Panorama List
+Button_46660F62_6F32_53B6_41B9_2F5BE2010073_mobile.label = Reception
+Button_46660F62_6F32_53B6_41B9_2F5BE2010073.label = Reception
+Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = Spa
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = Spa
+Button_43F032BD_6F2E_5292_41D0_71DE3C1024D6.label = Studio Apartment
+Button_43F032BD_6F2E_5292_41D0_71DE3C1024D6_mobile.label = Studio Apartment
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Tour Information
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = Tour Information
+
+### Image
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_en.jpg
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile_en.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_en.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_en.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_en.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_en.jpg
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_en.jpg
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile_en.jpg
+
+### Multiline Text
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.700000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:4.7vw;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7200000000000037vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vw;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7200000000000037vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vw;font-family:'Oswald';"><B><I>DOLOR SIT AME</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.33vw;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.42vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.54vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7800000000000028vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7800000000000028vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.27vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7800000000000028vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7800000000000028vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7800000000000028vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7800000000000028vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7800000000000028vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.27vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>LOREM IPSUM:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.33vw;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.700000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:4.7vw;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7200000000000037vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vw;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.7200000000000037vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vw;font-family:'Oswald';"><B><I>DOLOR SIT AME</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.33vw;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.42vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.54vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7800000000000028vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7800000000000028vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.27vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7800000000000028vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7800000000000028vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7800000000000028vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7800000000000028vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7800000000000028vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.27vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>LOREM IPSUM:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.33vw;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.2700000000000031vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.27vw;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2700000000000031vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.27vw;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2099999999999993vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2099999999999993vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2099999999999993vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.54vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7200000000000009vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.72vw;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.2700000000000031vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.27vw;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2700000000000031vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.27vw;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2099999999999993vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2099999999999993vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2099999999999993vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.54vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7200000000000009vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.72vw;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.420000000000009vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.42vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.9200000000000115vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.9200000000000115vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.420000000000009vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.42vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.9200000000000115vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.9200000000000115vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_5F35A733_6D4E_7C14_41A4_F03F9A001F2B.toolTip = Fullscreen
+IconButton_5F35A733_6D4E_7C14_41A4_F03F9A001F2B_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Zanzibar Asili Resort
