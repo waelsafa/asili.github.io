@@ -1,0 +1,78 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_E9ED7E59_E69C_5D2B_41E3_032D824A74E5.source = http://www.360strategy.ae/
+LinkBehaviour_E7D27687_FB37_ED31_41E7_D3FEA7EDEDB5.source = http://www.360strategy.ae/
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_60EF4569_4154_7DD0_41B3_A7BBE1F68A0A.url = media/map_939DF2AB_E7EC_456F_41BF_678631ED2F7E_en_0.png
+imlevel_60EEB569_4154_7DD0_4194_32E1FE5A7F63.url = media/map_939DF2AB_E7EC_456F_41BF_678631ED2F7E_en_1.png
+imlevel_60EEA569_4154_7DD0_41B2_DC018C745D44.url = media/map_939DF2AB_E7EC_456F_41BF_678631ED2F7E_en_2.png
+
+### Title
+map_939DF2AB_E7EC_456F_41BF_678631ED2F7E.label = Penthouse FP for tour
+panorama_F77E6F24_E6A5_FB18_41EC_C146135512F0.label = Zanzibar penthouse 0000
+panorama_F374AE36_E6A4_3D78_41C8_26235BC00185.label = Zanzibar penthouse 0001
+panorama_FC74E350_E6AC_4B38_41E8_0D05E74DEF93.label = Zanzibar penthouse 0002
+panorama_FC357B1B_E6A3_DB2F_41D1_047643565206.label = Zanzibar penthouse 0003
+panorama_FA2D23CB_E6A4_4B2F_41C3_63D570524440.label = Zanzibar penthouse 0004
+panorama_F8ACE350_E6BC_4B38_41D1_935A2451C249.label = Zanzibar penthouse 0005
+panorama_C66150B8_E6A3_C569_41C7_2A101AE8AABA.label = Zanzibar penthouse 0006
+panorama_C7C1D5BF_E6A7_CF67_41E2_4816B4062AA6.label = Zanzibar penthouse 0007
+panorama_C2FB5986_E6A3_C719_41E3_13F4D80B7990.label = Zanzibar penthouse 0008
+panorama_C5EAB68C_E6A5_CD29_41D6_9C39A7B666B3.label = Zanzibar penthouse 0009
+panorama_C14BFEC1_E6A4_DD18_41C5_AA8C1BF137BF.label = Zanzibar penthouse 0010
+panorama_CBC19D54_E6EC_3F39_41C2_D1ADE1CF9AFB.label = Zanzibar penthouse 0011
+panorama_CD4EF6C7_E6EC_4D27_41E6_E2EA4D5307CA.label = Zanzibar penthouse 0012
+panorama_CDC76302_E6E7_CB19_41B1_C43A7B851560.label = Zanzibar penthouse 0013
+panorama_CB5A254A_E6E4_4F29_4184_956AA2299485.label = Zanzibar penthouse 0014
+panorama_CB97E764_E6EC_4B19_41E9_123AA929C393.label = Zanzibar penthouse 0015
+panorama_CD17756B_E6EC_4FEF_41DA_45B33D186BC7.label = Zanzibar penthouse 0016
+panorama_CA7F51C4_E6EC_C718_41E7_0B1B249D4C9E.label = Zanzibar penthouse 0017
+panorama_D556A682_E6E5_CD19_41E8_255DA0265A86.label = Zanzibar penthouse 0018
+panorama_D70BC567_E6E4_4FE7_41E5_ABAB46B29CC4.label = Zanzibar penthouse 0019
+panorama_D26C037A_E69C_CBE9_41DE_6852267D77CE.label = Zanzibar penthouse 0020
+panorama_D5BD6AB7_E69C_C567_41E9_E31CE4A360C4.label = Zanzibar penthouse 0021
+panorama_D16E91DA_E69C_C729_41E2_6AE9C7A2AC2A.label = Zanzibar penthouse 0022
+panorama_DF428493_E6A4_4D3F_41E7_87CE6B56096E.label = Zanzibar penthouse 0023
+panorama_D8E6A8A5_E6A4_C518_41B4_ABF827B7FE03.label = Zanzibar penthouse 0024
+panorama_DB9A20FB_E6AC_46EF_41E2_D990F11E1EE7.label = Zanzibar penthouse 0025
+panorama_DB33EAF9_E6AC_5AEB_41D7_181CE82A0ED7.label = Zanzibar penthouse 0026
+panorama_A778A222_E6A5_C518_41D7_E3482673930E.label = Zanzibar penthouse 0027
+panorama_A56F7086_E6A4_C519_41E6_F074864BE70E.label = Zanzibar penthouse 0028
+panorama_AA5F8ACD_E6A4_C528_41EA_5B0F22328C1A.label = Zanzibar penthouse 0029
+panorama_A24962A1_E6BC_C518_41BC_655F8B4334DD.label = Zanzibar penthouse 0030
+panorama_A3360E6E_E6BC_3DE9_41D9_D55FD274251F.label = Zanzibar penthouse 0031
+panorama_A11B985E_E6A4_4529_41C1_6E4A4FDA18E9.label = Zanzibar penthouse 0032
+panorama_AF126F3A_E6AC_5B69_41D3_1CCAB7CEF538.label = Zanzibar penthouse 0033
+panorama_BED9B48E_E6AC_4D29_41E4_8176D774C4AE.label = Zanzibar penthouse 0034
+panorama_A8ECFCC7_E6AC_DD18_41D2_E6B37C055440.label = Zanzibar penthouse 0035
+panorama_BF829FE8_E76C_5AE9_41B9_40226EFA58A6.label = Zanzibar penthouse terrace 0000
+panorama_B0A0033D_E76C_4B6B_418A_268554D15326.label = Zanzibar penthouse terrace 0001
+panorama_B3AAA84C_E76C_4529_41C0_451F2AD7618C.label = Zanzibar penthouse terrace 0002
+panorama_BC1F89F8_E76C_C6E9_4152_35612A4BE5C0.label = Zanzibar penthouse terrace 0002
+panorama_B94F09E6_E764_C718_41DC_1835BEFA1282.label = Zanzibar penthouse terrace 0003
+panorama_BE31E10E_E77D_C728_41E6_3495FD4AA137.label = Zanzibar penthouse terrace 0004
+panorama_BB6319F0_E77C_46F9_41E4_D46DDBB85F3F.label = Zanzibar penthouse terrace 0005
+panorama_BA60F1E2_E767_C719_41DA_DB0F98D7662E.label = Zanzibar penthouse terrace 0006
+panorama_E44025F3_F634_32EE_41DF_E4C07680571B.label = penthouse balconies 2
+panorama_E5345B06_F634_7736_41B5_35B1B201F01A.label = penthouse balconies0136
+
+## Skin
+
+### Multiline Text
+HTMLText_2B5A1184_3B5E_334E_41AE_D15498841AA2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:26px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:26px;"><B>TITLE</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;"><B><I>SUBTITLE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;"><B>____________________________________</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in pretium augue. Quisque mollis, leo a vestibulum sodales, nunc est auctor massa, eget tempor nunc sem sit amet felis. Duis eget mi ac augue dapibus feugiat id vitae lacus. Phasellus congue justo vitae quam rutrum dictum. Donec auctor, risus nec sodales ullamcorper, dui neque dignissim quam, ac imperdiet ligula est non enim. Morbi eleifend, enim eu ullamcorper vestibulum, orci nisl convallis libero, cursus dictum dui mi at tortor. Ut euismod nunc id lectus mollis tristique. Duis lacinia pellentesque urna, at dictum velit.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;">Aliquam egestas magna porta, lacinia nisl eu, interdum neque. Etiam porta urna nec massa egestas euismod. Sed at lectus leo. Nulla blandit purus ut arcu feugiat, non varius tortor varius. Mauris a sem leo. Nulla eleifend mattis tincidunt. Nullam laoreet, arcu sit amet efficitur luctus, augue libero convallis odio, a pharetra est tellus id tortor. Nunc tincidunt, mauris in posuere pretium, velit velit blandit ipsum, vel tempus eros nisl nec sem. Phasellus placerat ex sed enim pharetra, eu venenatis enim convallis. Morbi dolor urna, semper vitae fermentum in, egestas in enim. Sed id egestas ligula. Sed quis laoreet nulla. Curabitur finibus risus quis velit bibendum mattis. Mauris lacinia, purus eu fermentum tristique, nunc est semper nisi, consectetur varius justo velit nec lorem. Ut aliquam vehicula sapien. Fusce metus libero, placerat vel ultrices quis, dictum et neque.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;">In posuere pretium, velit velit blandit ipsum, vel tempus eros nisl nec sem. Phasellus placerat ex sed enim pharetra, eu venenatis enim convallis. Morbi dolor urna, semper vitae fermentum in, egestas in enim. Sed id egestas ligula. Sed quis laoreet nulla. Curabitur finibus risus quis velit bibendum mattis. Mauris lacinia, purus eu fermentum.</SPAN></SPAN></DIV></div>
+HTMLText_2B5A1184_3B5E_334E_41AE_D15498841AA2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:13px;"><B>TITLE</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8px;"><B><I>SUBTITLE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;"><B>____________________________________</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in pretium augue. Quisque mollis, leo a vestibulum sodales, nunc est auctor massa, eget tempor nunc sem sit amet felis. Duis eget mi ac augue dapibus feugiat id vitae lacus. Phasellus congue justo vitae quam rutrum dictum. Donec auctor, risus nec sodales ullamcorper, dui neque dignissim quam, ac imperdiet ligula est non enim. Morbi eleifend, enim eu ullamcorper vestibulum, orci nisl convallis libero, cursus dictum dui mi at tortor. Ut euismod nunc id lectus mollis tristique. Duis lacinia pellentesque urna, at dictum velit.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;">Aliquam egestas magna porta, lacinia nisl eu, interdum neque. Etiam porta urna nec massa egestas euismod. Sed at lectus leo. Nulla blandit purus ut arcu feugiat, non varius tortor varius. Mauris a sem leo. Nulla eleifend mattis tincidunt. Nullam laoreet, arcu sit amet efficitur luctus, augue libero convallis odio, a pharetra est tellus id tortor. Nunc tincidunt, mauris in posuere pretium, velit velit blandit ipsum, vel tempus eros nisl nec sem. Phasellus placerat ex sed enim pharetra, eu venenatis enim convallis. Morbi dolor urna, semper vitae fermentum in, egestas in enim. Sed id egestas ligula. Sed quis laoreet nulla. Curabitur finibus risus quis velit bibendum mattis. Mauris lacinia, purus eu fermentum tristique, nunc est semper nisi, consectetur varius justo velit nec lorem. Ut aliquam vehicula sapien. Fusce metus libero, placerat vel ultrices quis, dictum et neque.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;">In posuere pretium, velit velit blandit ipsum, vel tempus eros nisl nec sem. Phasellus placerat ex sed enim pharetra, eu venenatis enim convallis. Morbi dolor urna, semper vitae fermentum in, egestas in enim. Sed id egestas ligula. Sed quis laoreet nulla. Curabitur finibus risus quis velit bibendum mattis. Mauris lacinia, purus eu fermentum.</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 3 Bedroom Penthouse
